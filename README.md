@@ -1,3 +1,22 @@
+# Front End Developer | Corebiz :shoe: :shirt:
+
+### Primero
+Para instalar las dependencias del __nodeModules__
+```javascript
+npm i
+```
+
+### Segundo
+```javascript
+npm start
+```
+
+### Screenshots
+![image](https://user-images.githubusercontent.com/39087254/108013607-c995cc00-6fea-11eb-93e7-d4601270d128.png)
+![image](https://user-images.githubusercontent.com/39087254/108013649-dfa38c80-6fea-11eb-93a7-c1e9a04c35b5.png)
+
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
